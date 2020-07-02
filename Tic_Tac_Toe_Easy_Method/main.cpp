@@ -1,4 +1,4 @@
-// Tic Tac Toe Game build in simples logic.
+// Tic Tac Toe Game build in simpliest logic.
 // BY [Rabiul Islam Emon].
 
 #include <iostream>
@@ -20,7 +20,7 @@ int main()
 {
     string name1,name2;
     system("Color 0");  // from windows.h background color is set to black as {0-> Black}
-    cout<<MAG<<"     "<<"~~~~Welcome To Tic Tac Toe Game~~~\n" RESET<<endl; // MAG is used for color RESET used to reset the color
+    cout<<MAG<<"     "<<"~~~~Welcome To Tic Tac Toe Game~~~\n" RESET<<endl; // MAG is used for color and RESET used to reset the color.
     cout<<YEL<<"     "<<"Enter player1 name." RESET<<endl;                  // after printing the string.
     cout<<"     ";                                                          // same as all used in other cout.
     cin>>name1;
