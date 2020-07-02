@@ -14,7 +14,6 @@
   * You will be prompted to download a zip file
   * Download that file and extract this
   * Enter into the repository on your local system where you ran the above command
-* Open up cmd 
 * Open **Tic_Tac_Toe_Easy_Method.cbp** with CodeBlocks
 * Build the project 
 * Run!
