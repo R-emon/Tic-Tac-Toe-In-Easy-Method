@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593702281 source:d:\codes\tic_tac_toe_easy_method\main.cpp
+	<iostream>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	<ctype.h>
+	"color.h"
+
+1592849678 d:\codes\tic_tac_toe_easy_method\color.h
+
