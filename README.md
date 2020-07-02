@@ -10,7 +10,7 @@
     ```git clone https://github.com/R-emon/Tic_Tac_Toe_In_Easy_Method.git```
   * Enter into that repository on your local system where you ran the above command
 * If you don't have git installed on your windows
-  * Click on this [link](https://github.com/R-emon/Tic_Tac_Toe_In_Easy_Method/archive/master.zip) link
+  * Click on this [link](https://github.com/R-emon/Tic_Tac_Toe_In_Easy_Method/archive/master.zip)
   * You will be prompted to download a zip file
   * Download that file and extract this
   * Enter into the repository on your local system where you ran the above command
